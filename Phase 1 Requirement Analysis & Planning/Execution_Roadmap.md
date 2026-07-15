@@ -1,13 +1,13 @@
-﻿<div align="center">
+<div align="center">
 
-| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
+| <img src="https://smartinternz.com/images/company_logos/thumbs/1589433559SmartBridge_Logo.png" width="160" alt="SmartBridge"> | <img src="https://www.myskillwallet.ai/skillwalletheaderlogo.png" width="160" alt="SkillWallet"> |
 |:--|--:|
 
 ---
 
-*Phase 1 — Requirement Analysis & Planning*
+*Phase 1 -- Requirement Analysis & Planning*
 
-## **🗺️ Implementation Roadmap & Milestones**
+## Implementation Roadmap & Milestones
 
 </div>
 
@@ -103,6 +103,7 @@ Successful implementation will deliver automated employee lifecycle request hand
 * Efficient coordination between departments.
 * Faster employee lifecycle management.
 * Improved transparency and monitoring through automated workflows.
+
 
 
 

@@ -1,13 +1,13 @@
-﻿<div align="center">
+<div align="center">
 
-| <img src="../../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
+| <img src="https://smartinternz.com/images/company_logos/thumbs/1589433559SmartBridge_Logo.png" width="160" alt="SmartBridge"> | <img src="https://www.myskillwallet.ai/skillwalletheaderlogo.png" width="160" alt="SkillWallet"> |
 |:--|--:|
 
 ---
 
-*Phase 3 — UI/UX Development & Customization*
+*Phase 3 -- UI/UX Development & Customization*
 
-## **🔐 Data Integration, QA & Security Protocol**
+## Data Integration, QA & Security Protocol
 
 </div>
 
@@ -119,5 +119,6 @@ Establish comprehensive security framework to protect sensitive employee lifecyc
 - Complete visibility into system activity and user actions
 
 ---
+
 
 

@@ -1,13 +1,13 @@
-﻿<div align="center">
+<div align="center">
 
-| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
+| <img src="https://smartinternz.com/images/company_logos/thumbs/1589433559SmartBridge_Logo.png" width="160" alt="SmartBridge"> | <img src="https://www.myskillwallet.ai/skillwalletheaderlogo.png" width="160" alt="SkillWallet"> |
 |:--|--:|
 
 ---
 
-*Phase 2 — Backend Development & Configurations*
+*Phase 2 -- Backend Development & Configurations*
 
-## **📐 Form Behavior & Data Consistency Configuration**
+## Form Behavior & Data Consistency Configuration
 
 </div>
 
@@ -19,8 +19,6 @@
 | **Document** | Business Rules & UI Policies |
 
 ---
----
-
 ## Data Consistency Framework
 
 ### Role & Purpose
@@ -125,6 +123,7 @@ Repeat the configuration process with these specifications:
 * Dynamic form behavior based on request type.
 * Reduced user input errors.
 * Improved form usability and efficiency.
+
 
 
 

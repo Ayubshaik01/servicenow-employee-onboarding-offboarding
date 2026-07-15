@@ -1,13 +1,13 @@
-﻿<div align="center">
+<div align="center">
 
-| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
+| <img src="https://smartinternz.com/images/company_logos/thumbs/1589433559SmartBridge_Logo.png" width="160" alt="SmartBridge"> | <img src="https://www.myskillwallet.ai/skillwalletheaderlogo.png" width="160" alt="SkillWallet"> |
 |:--|--:|
 
 ---
 
-*Phase 4 — Data Migration, Testing & Security*
+*Phase 4 -- Data Migration, Testing & Security*
 
-## **🔒 Authorization & Access Management**
+## Authorization & Access Management
 
 </div>
 
@@ -100,5 +100,6 @@ Access Control Lists restrict data access based on user role assignments and dep
 - Overall platform security posture and compliance status improve
 
 ---
+
 
 

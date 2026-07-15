@@ -1,13 +1,13 @@
-﻿<div align="center">
+<div align="center">
 
-| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
+| <img src="https://smartinternz.com/images/company_logos/thumbs/1589433559SmartBridge_Logo.png" width="160" alt="SmartBridge"> | <img src="https://www.myskillwallet.ai/skillwalletheaderlogo.png" width="160" alt="SkillWallet"> |
 |:--|--:|
 
 ---
 
-*Phase 5 — Deployment, Documentation & Final Presentation*
+*Phase 5 -- Deployment, Documentation & Final Presentation*
 
-## **💡 Design Innovation & Approach Strategy**
+## Design Innovation & Approach Strategy
 
 </div>
 
@@ -76,5 +76,6 @@ The solution brings an innovative methodology to employee lifecycle administrati
 The innovation-driven architectural approach delivers a **straightforward, expandable, and administratively sustainable automation framework** for ServiceNow-based employee lifecycle coordination.
 
 ---
+
 
 

@@ -1,13 +1,13 @@
-﻿<div align="center">
+<div align="center">
 
-| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
+| <img src="https://smartinternz.com/images/company_logos/thumbs/1589433559SmartBridge_Logo.png" width="160" alt="SmartBridge"> | <img src="https://www.myskillwallet.ai/skillwalletheaderlogo.png" width="160" alt="SkillWallet"> |
 |:--|--:|
 
 ---
 
-*Phase 2 — Backend Development & Configurations*
+*Phase 2 -- Backend Development & Configurations*
 
-## **⚙️ Workflow Automation Strategy**
+## Workflow Automation Strategy
 
 </div>
 
@@ -65,5 +65,6 @@ ServiceNow Flow Designer serves as the orchestration engine for employee lifecyc
 ## Projected Impact
 
 Implementing comprehensive automation will deliver end-to-end employee lifecycle workflows with enhanced transparency, accountability, and operational efficiency.
+
 
 
