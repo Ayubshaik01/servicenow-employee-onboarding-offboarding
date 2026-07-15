@@ -1,9 +1,7 @@
 ﻿<div align="center">
 
-|  |  |
+| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
 |:--|--:|
-| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
-| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
@@ -94,4 +92,5 @@ Role-Based Access Control (RBAC) combined with **Access Control Lists (ACLs)** r
 * Automated workflow integration with stored data.
 * Secure access to data through role-based permissions.
 * Improved visibility through reporting and dashboards.
+
 

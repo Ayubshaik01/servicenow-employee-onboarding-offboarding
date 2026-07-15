@@ -1,9 +1,7 @@
 ﻿<div align="center">
 
-|  |  |
+| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
 |:--|--:|
-| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
-| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
@@ -78,4 +76,5 @@ The solution brings an innovative methodology to employee lifecycle administrati
 The innovation-driven architectural approach delivers a **straightforward, expandable, and administratively sustainable automation framework** for ServiceNow-based employee lifecycle coordination.
 
 ---
+
 

@@ -1,9 +1,7 @@
 ﻿<div align="center">
 
-|  |  |
+| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
 |:--|--:|
-| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
-| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
@@ -105,5 +103,6 @@ To review request generation records:
 - Automatic request completion after departmental task fulfillment
 
 ---
+
 
 

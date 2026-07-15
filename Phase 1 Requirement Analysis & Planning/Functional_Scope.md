@@ -1,9 +1,7 @@
 ﻿<div align="center">
 
-|  |  |
+| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
 |:--|--:|
-| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
-| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
@@ -120,4 +118,5 @@ Maintain proper audit trails and shift from manual paperwork to digital processe
 * Environment-friendly digital workflows
 
 ---
+
 

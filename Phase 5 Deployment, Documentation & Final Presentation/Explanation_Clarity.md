@@ -1,9 +1,7 @@
 ﻿<div align="center">
 
-|  |  |
+| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
 |:--|--:|
-| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
-| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
@@ -139,4 +137,5 @@ All documentation includes:
 This ensures that the solution can be **replicated in another ServiceNow instance with minimal effort**.
 
 ---
+
 

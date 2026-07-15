@@ -1,9 +1,7 @@
 ﻿<div align="center">
 
-|  |  |
+| <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
 |:--|--:|
-| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
-| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
@@ -91,4 +89,5 @@ The solution leverages collaboration among HR personnel, management staff, IT sp
 - Transparent role delineation across all departments
 - Streamlined cross-functional collaboration
 - Secure and well-structured employee lifecycle procedures
+
 
