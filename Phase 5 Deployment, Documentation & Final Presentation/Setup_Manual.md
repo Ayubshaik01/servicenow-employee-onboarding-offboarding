@@ -1,9 +1,26 @@
-# Setup Manual
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 5 — Deployment, Documentation & Final Presentation*
+
+## **📖 Setup & Configuration Manual**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Setup Manual |
+
+---
 ## Description
 
 This document provides a **step-by-step guide to replicate the solution in a new ServiceNow Personal Developer Instance (PDI)**. It explains how to configure catalog items, variables, UI policies, workflows, access controls, and testing procedures to successfully implement the automated onboarding and offboarding system.
@@ -16,7 +33,7 @@ This document provides a **step-by-step guide to replicate the solution in a new
 
 ### Navigation
 
-ServiceNow → **Service Catalog → Catalog Definitions → Maintain Items**
+ServiceNow â†’ **Service Catalog â†’ Catalog Definitions â†’ Maintain Items**
 
 ### Steps
 
@@ -83,7 +100,7 @@ UI Policies dynamically control field visibility based on request type.
 
 ### Navigation
 
-ServiceNow → **Flow Designer**
+ServiceNow â†’ **Flow Designer**
 
 ### Steps
 
@@ -91,7 +108,7 @@ ServiceNow → **Flow Designer**
 
 2. Add a trigger:
 
-   * **Service Catalog → Catalog Item Requested**
+   * **Service Catalog â†’ Catalog Item Requested**
 
 3. Configure workflow steps:
 
@@ -132,7 +149,7 @@ Create roles for different stakeholders:
 
 Navigate to:
 
-**System Security → Access Control (ACL)**
+**System Security â†’ Access Control (ACL)**
 
 Configure ACL rules to control:
 
@@ -182,3 +199,4 @@ These screenshots help demonstrate the implementation sequence and system behavi
 After completing the setup:
 
 * Onboarding and offboa
+

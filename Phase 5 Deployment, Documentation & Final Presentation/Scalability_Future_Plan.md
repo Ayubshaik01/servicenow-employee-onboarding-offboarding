@@ -1,9 +1,26 @@
-# Expansion Roadmap & Future Capabilities
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 5 — Deployment, Documentation & Final Presentation*
+
+## **🚀 Expansion Roadmap & Future Capabilities**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Scalability & Future Plan |
+
+---
 ## Overview
 
 The present implementation concentrates on automating lifecycle workflows within the ServiceNow platform. However, the architecture supports **extensibility and scalability** enabling integration with external platforms, accommodation of enterprise-scale operational requirements, and expansion into complementary HR functions.
@@ -95,3 +112,4 @@ The system can evolve into a **complete employee lifecycle management platform**
 * Better reporting and operational insights.
 
 ---
+

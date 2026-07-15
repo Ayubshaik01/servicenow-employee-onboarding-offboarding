@@ -1,9 +1,26 @@
-# System Functionality & Capabilities Overview
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 5 — Deployment, Documentation & Final Presentation*
+
+## **🔄 System Functionality & Capabilities Overview**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Functional Overview |
+
+---
 ## Executive Summary
 
 The Automated Employee Onboarding & Offboarding System optimizes employee lifecycle management through the ServiceNow ecosystem. The solution eliminates manual coordination with intelligent workflows that orchestrate request submission, authorization, departmental task distribution, and lifecycle tracking.
@@ -34,10 +51,10 @@ The implementation integrates **Service Portal request forms, automated workflow
 
 Following authorization, the system automatically generates tasks for relevant departments:
 
-- **HR Personnel** – Employee documentation and lifecycle procedure management
-- **IT Personnel** – System access provisioning or revocation and user account management
-- **Facilities Personnel** – Physical asset allocation or recovery and workspace management
-- **Security Personnel** – Physical access permission administration
+- **HR Personnel** â€“ Employee documentation and lifecycle procedure management
+- **IT Personnel** â€“ System access provisioning or revocation and user account management
+- **Facilities Personnel** â€“ Physical asset allocation or recovery and workspace management
+- **Security Personnel** â€“ Physical access permission administration
 
 Each department receives task assignments aligned with their operational scope.
 
@@ -61,8 +78,8 @@ This infrastructure enables centralized request lifecycle visibility.
 
 - **UI Policies** conditionally render fields based on request type selection
 - Example:
-  - If **Request Type = Onboarding → Commencement Date appears**
-  - If **Request Type = Offboarding → Departure Date appears**
+  - If **Request Type = Onboarding â†’ Commencement Date appears**
+  - If **Request Type = Offboarding â†’ Departure Date appears**
 
 This approach optimizes form usability and minimizes input errors.
 
@@ -84,3 +101,4 @@ This approach optimizes form usability and minimizes input errors.
 - Employee information handling maintains security and role-based restrictions
 
 ---
+

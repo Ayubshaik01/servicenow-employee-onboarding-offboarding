@@ -1,10 +1,26 @@
-# System Architecture & Data Model
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Data Architecture Design
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 2 — Backend Development & Configurations*
+
+## **🏗️ System Architecture & Data Model**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Data Architecture Design |
+
+---
 ## Architecture Overview
 
 The solution leverages a custom **Employee Lifecycle** data table infrastructure to persist onboarding and offboarding information including Employee ID, Department, Timeline information, and Process Status.
@@ -78,3 +94,4 @@ Role-Based Access Control (RBAC) combined with **Access Control Lists (ACLs)** r
 * Automated workflow integration with stored data.
 * Secure access to data through role-based permissions.
 * Improved visibility through reporting and dashboards.
+

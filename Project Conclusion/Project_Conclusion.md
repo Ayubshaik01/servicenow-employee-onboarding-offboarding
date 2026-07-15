@@ -1,9 +1,26 @@
-# Project Summary & Achievements
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Conclusion — Project Conclusion*
+
+## **🏆 Project Summary & Achievements**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Project Conclusion |
+
+---
 ## Executive Summary
 
 The **Automated Employee Onboarding & Offboarding initiative** successfully delivers comprehensive lifecycle automation within the ServiceNow environment. The implementation substitutes manual departmental coordination among HR, IT, Facilities, and Security personnel with a unified, intelligently-orchestrated workflow leveraging **ServiceNow Flow Designer**.
@@ -69,8 +86,9 @@ The initiative effectively deploys a **completely automated employee lifecycle a
 
 ---
 
-**Project Status:** ✅ Successfully Completed  
+**Project Status:** âœ… Successfully Completed  
 **Created by:** AYUB HUSSAIN SHAIK  
 **Organization:** SKILLWALLET INTERNSHIP  
 **Team:** Development & Implementation Team  
 **Date:** 2026-07-01
+

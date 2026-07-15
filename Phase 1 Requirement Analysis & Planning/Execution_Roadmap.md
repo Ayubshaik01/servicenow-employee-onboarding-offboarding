@@ -1,10 +1,26 @@
-# Implementation Roadmap & Milestones
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Requirement Analysis & Planning
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 1 — Requirement Analysis & Planning*
+
+## **🗺️ Implementation Roadmap & Milestones**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Execution Roadmap |
+
+---
 ## Overview
 
 The delivery strategy encompasses structured phases that cover service catalog development, data structure configuration, automated workflow design, Service Level Agreement setup, comprehensive validation, and go-live activities.
@@ -89,4 +105,5 @@ Successful implementation will deliver automated employee lifecycle request hand
 * Efficient coordination between departments.
 * Faster employee lifecycle management.
 * Improved transparency and monitoring through automated workflows.
+
 

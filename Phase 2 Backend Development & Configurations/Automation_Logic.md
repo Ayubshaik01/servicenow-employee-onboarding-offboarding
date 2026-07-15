@@ -1,10 +1,26 @@
-# Workflow Automation Strategy
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Workflow Automation Implementation
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 2 — Backend Development & Configurations*
+
+## **⚙️ Workflow Automation Strategy**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Automation Logic |
+
+---
 ## Executive Summary
 
 ServiceNow Flow Designer serves as the orchestration engine for employee lifecycle processes. It automates request approval chains, distributes tasks across departments, maintains Service Level Agreements, and delivers status notifications to ensure seamless departmental execution and organizational visibility.
@@ -51,3 +67,4 @@ ServiceNow Flow Designer serves as the orchestration engine for employee lifecyc
 ## Projected Impact
 
 Implementing comprehensive automation will deliver end-to-end employee lifecycle workflows with enhanced transparency, accountability, and operational efficiency.
+

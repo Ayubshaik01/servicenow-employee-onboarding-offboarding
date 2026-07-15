@@ -1,9 +1,26 @@
-# Demonstration Video Structure & Content
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 5 — Deployment, Documentation & Final Presentation*
+
+## **🎥 Demo Video Plan & Script**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Demo Video Plan |
+
+---
 ## Overview
 
 This document specifies the organization and demonstration points for a **video walkthrough of the system**. The presentation will illustrate complete system functionality spanning request submission, authorization workflows, task distribution, Service Level Agreement tracking, and request completion. The video showcases the end-to-end automation capabilities implemented in ServiceNow.
@@ -14,7 +31,7 @@ This document specifies the organization and demonstration points for a **video 
 
 ## Section 1: Portal Interface Demonstration
 
-**Access Path:** Service Portal → **Service Catalog → HR Services → Onboard / Offboard Employee**
+**Access Path:** Service Portal â†’ **Service Catalog â†’ HR Services â†’ Onboard / Offboard Employee**
 
 **Presentation Highlights:**
 - Introduce the Service Portal interface
@@ -123,3 +140,4 @@ The demonstration should clearly show:
 * Improved efficiency through ServiceNow automation.
 
 ---
+

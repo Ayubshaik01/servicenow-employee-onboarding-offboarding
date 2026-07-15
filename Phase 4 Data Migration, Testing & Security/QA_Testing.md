@@ -1,10 +1,26 @@
-# Quality Assurance & Validation Testing
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Quality Assurance & Verification
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 4 — Data Migration, Testing & Security*
+
+## **🧪 Quality Assurance & Validation Testing**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | QA Testing Plan |
+
+---
 ## Overview
 
 Comprehensive QA verification was executed to confirm complete request lifecycle functionality for onboarding and offboarding processes. Real-scenario simulations validated system handling of request generation, approval routing, task distribution, SLA performance, notification delivery, and request completion.
@@ -73,7 +89,7 @@ These tools confirmed successful execution of each process phase.
 
 To review request generation records:
 
-1. Navigate to **Reports → All**
+1. Navigate to **Reports â†’ All**
 2. Search for **sc_request**
 3. Open report to view generated requests and current status
 
@@ -89,4 +105,5 @@ To review request generation records:
 - Automatic request completion after departmental task fulfillment
 
 ---
+
 

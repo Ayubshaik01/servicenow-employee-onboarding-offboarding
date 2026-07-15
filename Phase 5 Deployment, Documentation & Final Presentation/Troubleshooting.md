@@ -1,10 +1,26 @@
-# Problem Diagnosis & Resolution Framework
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Troubleshooting & Problem Management
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 5 — Deployment, Documentation & Final Presentation*
+
+## **🔧 Troubleshooting Guide**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Troubleshooting |
+
+---
 ## Overview
 
 Proactive troubleshooting was carried out throughout implementation and validation phases to identify and correct issues impacting workflow execution, communication delivery, variable handling, and form functionality. ServiceNow logging systems, Flow Designer analytics, and form validation protocols were leveraged to diagnose and remediate issues ensuring reliable system operation.
@@ -21,7 +37,7 @@ Proactive troubleshooting was carried out throughout implementation and validati
 - Workflow operations failing to execute during lifecycle request processing
 
 **Diagnostic Method:**
-- Accessed **Flow Designer → Execution Analytics** for operational tracing
+- Accessed **Flow Designer â†’ Execution Analytics** for operational tracing
 
 **Corrective Actions:**
 - Confirmed trigger activation conditions for catalog submissions
@@ -39,7 +55,7 @@ Proactive troubleshooting was carried out throughout implementation and validati
 - Email recipients not obtaining notifications for authorization or task assignments
 
 **Diagnostic Method:**
-- Reviewed email activity in: **System Logs → Email → Transmission / Receipt**
+- Reviewed email activity in: **System Logs â†’ Email â†’ Transmission / Receipt**
 
 **Corrective Actions:**
 - Verified email notification delivery for:
@@ -88,8 +104,8 @@ Proactive troubleshooting was carried out throughout implementation and validati
 
 **Example Behavior**
 
-* If **Request Type = Onboarding → Joining Date field is displayed**.
-* If **Request Type = Offboarding → Exit Date field is displayed**.
+* If **Request Type = Onboarding â†’ Joining Date field is displayed**.
+* If **Request Type = Offboarding â†’ Exit Date field is displayed**.
 
 **Outcome**
 
@@ -105,4 +121,5 @@ Proactive troubleshooting was carried out throughout implementation and validati
 * Improved reliability and usability of ServiceNow forms.
 
 ---
+
 

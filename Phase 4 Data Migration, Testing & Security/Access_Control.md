@@ -1,10 +1,26 @@
-# Authorization & Access Management
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Security & Permission Management
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 4 — Data Migration, Testing & Security*
+
+## **🔒 Authorization & Access Management**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Access Control Configuration |
+
+---
 ## Overview
 
 Role-Based Access Control mechanisms protect confidential employee lifecycle information from unauthorized access. ServiceNow automatically generates four foundational Access Control List rules when custom tables are created. This project leverages these default ACLs with customized configurations to establish comprehensive access restrictions.
@@ -65,7 +81,7 @@ Access Control Lists restrict data access based on user role assignments and dep
 
 ## Configuration Implementation
 
-1. Access **System Security → Access Control (ACL)** menu
+1. Access **System Security â†’ Access Control (ACL)** menu
 2. Click **New** to create or adjust access control rules
 3. Select the target **Employee Lifecycle table**
 4. Choose the operation type to configure:
@@ -86,3 +102,4 @@ Access Control Lists restrict data access based on user role assignments and dep
 - Overall platform security posture and compliance status improve
 
 ---
+

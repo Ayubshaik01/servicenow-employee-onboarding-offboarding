@@ -1,10 +1,26 @@
-# User Interaction Workflow
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** User Navigation & Interaction Patterns
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 3 — UI/UX Development & Customization*
+
+## **🧭 User Interaction Workflow**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Navigation Flow |
+
+---
 ## Overview
 
 This documentation illustrates how end users navigate the ServiceNow portal interface to originate lifecycle requests. The user journey encompasses portal access, catalog item discovery, form completion, and automated request initiation. Upon submission, users receive tracking identifiers and confirmation notifications via email.
@@ -92,4 +108,5 @@ This URL will launch the **Service Portal** interface.
 - Workflow orchestration launches automatically upon successful submission
 
 ---
+
 

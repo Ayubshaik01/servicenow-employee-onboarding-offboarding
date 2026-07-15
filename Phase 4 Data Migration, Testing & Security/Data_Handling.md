@@ -1,10 +1,26 @@
-# Data Transfer & Storage Management
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Data Transfer & Automation Implementation
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 4 — Data Migration, Testing & Security*
+
+## **💾 Data Transfer & Storage Management**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Data Handling |
+
+---
 ## Overview
 
 The system manages request information by persisting onboarding and offboarding details within a custom **Employee Lifecycle** data table infrastructure. This table structure maintains comprehensive records containing personnel details, request specifications, and processing status.
@@ -78,11 +94,11 @@ This mechanism ensures that every request submission automatically generates or 
 
 - Access the **Add Fields (+)** option
 - Establish transfer mappings from catalog variables to table fields:
-  - Employee ID → Employee ID field
-  - Department → Department field  
-  - Manager → Manager field
-  - Commencement Date → Joining Date field
-  - Departure Date → Exit Date field
+  - Employee ID â†’ Employee ID field
+  - Department â†’ Department field  
+  - Manager â†’ Manager field
+  - Commencement Date â†’ Joining Date field
+  - Departure Date â†’ Exit Date field
 
 ---
 
@@ -94,3 +110,4 @@ This mechanism ensures that every request submission automatically generates or 
 - Enhanced reporting and workflow automation capabilities
 
 ---
+

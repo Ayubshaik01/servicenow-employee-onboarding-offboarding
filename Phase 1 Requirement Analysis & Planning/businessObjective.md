@@ -1,10 +1,49 @@
-# Strategic Business Objectives
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Requirement Analysis & Planning
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 1 — Requirement Analysis & Planning*
+
+## **📋 Strategic Business Objectives**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Business Objectives & Goals |
+
+---
+<div align="center">
+
+| <img src="https://skillwallet.in/wp-content/uploads/2024/03/skillwallet-logo.png" width="160" alt="SmartBridge"> | <img src="https://skillwallet.in/wp-content/uploads/2024/03/skillwallet-logo.png" width="160" alt="SkillWallet"> |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| | *A SmartBridge Product* |
+
+---
+
+*Phase 1 — Requirement Analysis & Planning*
+
+## **📋 Strategic Business Objectives**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Business Objectives & Goals |
+
+---
 ## Objective 1: Streamline Employee Lifecycle Management
 
 The primary goal involves digital transformation of onboarding and offboarding processes via ServiceNow. This initiative aims to eliminate manual intervention, standardize procedures, and enhance the overall employee journey experience.
@@ -93,3 +132,5 @@ Maintain proper audit trails and shift from manual paperwork to digital processe
 * Environment-friendly digital workflows
 
 ---
+
+

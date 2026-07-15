@@ -1,10 +1,26 @@
-# Stakeholder Roles & Responsibilities
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Requirement Analysis & Planning
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 1 — Requirement Analysis & Planning*
+
+## **👥 Stakeholder Roles & Responsibilities**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Stakeholder Mapping |
+
+---
 ## Overview
 
 The solution leverages collaboration among HR personnel, management staff, IT specialists, facilities coordinators, and security personnel through the ServiceNow platform. Each team manages domain-specific activities aligned with their expertise. Role-based security mechanisms restrict visibility and actions to tasks within each team's scope.
@@ -75,3 +91,4 @@ The solution leverages collaboration among HR personnel, management staff, IT sp
 - Transparent role delineation across all departments
 - Streamlined cross-functional collaboration
 - Secure and well-structured employee lifecycle procedures
+

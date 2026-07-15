@@ -1,10 +1,26 @@
-# User Experience & Form Optimization
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** User Experience & Usability Enhancement
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 3 — UI/UX Development & Customization*
+
+## **✨ User Experience & Form Optimization**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Usability Design |
+
+---
 ## Overview
 
 The solution enhances user experience through intelligent form field conditioning. Form fields render conditionally based on user selections, showing only contextually relevant information. This design minimizes user confusion, prevents data entry errors, and streamlines the request submission experience.
@@ -63,3 +79,4 @@ These fields capture specific information required during employee separation an
 - Data collection becomes more precise and reliable
 
 ---
+

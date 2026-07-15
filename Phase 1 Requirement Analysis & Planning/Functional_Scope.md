@@ -1,10 +1,26 @@
-# Functional Scope & Objectives
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Requirement Analysis & Planning
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 1 — Requirement Analysis & Planning*
+
+## **🎯 Functional Scope & Objectives**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Functional Scope Document |
+
+---
 ## 1. Streamline Employee Lifecycle Management
 
 **Description**
@@ -104,3 +120,4 @@ Maintain proper audit trails and shift from manual paperwork to digital processe
 * Environment-friendly digital workflows
 
 ---
+

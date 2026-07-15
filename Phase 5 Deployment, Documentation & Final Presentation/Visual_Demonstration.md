@@ -1,9 +1,26 @@
-# Graphical System Documentation
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 5 — Deployment, Documentation & Final Presentation*
+
+## **🎬 Visual Demonstration Guide**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Visual Demonstration |
+
+---
 ## Overview
 
 This section provides photographic verification of the implementation and operational execution. Annotated graphics document the system interface, workflow automation, authorization procedures, and messaging infrastructure within the ServiceNow ecosystem.
@@ -24,8 +41,8 @@ Graphics illustrate the **Service Portal entry form** enabling lifecycle request
 - Conditional field rendering based on **Request Category selection**
 - Dynamic field behavior regulated through **UI Policies**
 - Illustration:
-  - If **Request Category = Onboarding → Commencement Date appears**
-  - If **Request Category = Offboarding → Departure Date appears**
+  - If **Request Category = Onboarding â†’ Commencement Date appears**
+  - If **Request Category = Offboarding â†’ Departure Date appears**
 
 Visuals highlight dynamic form adaptation to optimize user interface experience.
 
@@ -84,3 +101,4 @@ Visual documentation establishes confirmation that:
 These visuals validate the complete functionality of the ServiceNow automation solution.
 
 ---
+

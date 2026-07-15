@@ -1,10 +1,26 @@
-# Form Behavior & Data Consistency Configuration
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System  
-**Phase:** Backend Logic & User Interface Setup
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 2 — Backend Development & Configurations*
+
+## **📐 Form Behavior & Data Consistency Configuration**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Business Rules & UI Policies |
+
+---
 ---
 
 ## Data Consistency Framework
@@ -44,8 +60,8 @@ UI Policies implement conditional field display mechanisms in onboarding and off
 
 ### Conditional Display Logic
 
-- **Onboarding Scenario:** Request Type selection = Onboarding → **Joining Date** field display activated
-- **Offboarding Scenario:** Request Type selection = Offboarding → **Exit Date** field display activated
+- **Onboarding Scenario:** Request Type selection = Onboarding â†’ **Joining Date** field display activated
+- **Offboarding Scenario:** Request Type selection = Offboarding â†’ **Exit Date** field display activated
 
 ---
 
@@ -53,7 +69,7 @@ UI Policies implement conditional field display mechanisms in onboarding and off
 
 ### Phase 1: Form Location
 
-- Navigate to **Service Catalog → Catalog Definitions → Maintain Items**
+- Navigate to **Service Catalog â†’ Catalog Definitions â†’ Maintain Items**
 
 ### Phase 2: Catalog Item Selection
 
@@ -101,8 +117,8 @@ Repeat the configuration process with these specifications:
 - Open the form interface within **Service Portal**
 - Verify both conditional scenarios:
 
-  * Select **Onboarding** → Joining Date should appear.
-  * Select **Offboarding** → Exit Date should appear.
+  * Select **Onboarding** â†’ Joining Date should appear.
+  * Select **Offboarding** â†’ Exit Date should appear.
 
 ---
 
@@ -111,4 +127,5 @@ Repeat the configuration process with these specifications:
 * Dynamic form behavior based on request type.
 * Reduced user input errors.
 * Improved form usability and efficiency.
+
 

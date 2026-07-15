@@ -1,9 +1,26 @@
-# Architecture & Technical Implementation Details
+﻿<div align="center">
 
-**Project:** Automated Employee Onboarding & Offboarding System
+|  |  |
+|:--|--:|
+| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
+| *Innovation Partner* | *A SmartBridge Product* |
 
 ---
 
+*Phase 5 — Deployment, Documentation & Final Presentation*
+
+## **🏛️ Architecture & Technical Implementation Details**
+
+</div>
+
+| **Date** | 2026-07-01 |
+|---|---|
+| **Project Name** | Automated Employee Onboarding & Offboarding System |
+| **Author** | AYUB HUSSAIN SHAIK |
+| **Organization** | SKILLWALLET INTERNSHIP |
+| **Document** | Technical Blueprint |
+
+---
 ## Overview
 
 This document defines the technical architecture, system design, and operational implementation specifics of the Automated Employee Onboarding & Offboarding solution within ServiceNow. It documents process automation patterns, data persistence structures, authorization mechanisms, and Service Level Agreement tracking that facilitate efficient employee lifecycle administration.
@@ -36,7 +53,7 @@ This document defines the technical architecture, system design, and operational
 Service Portal inputs from the **Onboard/Offboard Employee catalog** establish mappings to the custom lifecycle table.
 
 **Information Flow Path:**  
-Catalog Inputs → Workflow Orchestration → Employee Lifecycle Storage
+Catalog Inputs â†’ Workflow Orchestration â†’ Employee Lifecycle Storage
 
 **Mapped Data Elements:**
 - Employee Identification
@@ -81,8 +98,8 @@ Authorization workflows are engineered within **Flow Designer**.
 - Authorization assignment follows the **Manager reference mapping**
 
 **Authorization Outcomes:**
-- **Authorization Granted → Workflow proceeds with task distribution**
-- **Authorization Denied → Request status modified and workflow halts**
+- **Authorization Granted â†’ Workflow proceeds with task distribution**
+- **Authorization Denied â†’ Request status modified and workflow halts**
 
 ---
 
@@ -110,3 +127,4 @@ Service Level Agreements establish performance benchmarks for task completion.
 - Strengthened system sustainability and future expandability
 
 ---
+
