@@ -1,30 +1,7 @@
-﻿<div align="center">
+<div align="center">
 
 | <img src="../assets/logos/SMARTBRIDGE.png" width="160" alt="SmartBridge - Let's Bridge the Gap"> | <img src="../assets/logos/SKILLWALLET.png" width="160" alt="SkillWallet - A SmartBridge Product"> |
 |:--|--:|
-
----
-
-*Phase 1 — Requirement Analysis & Planning*
-
-## **📋 Strategic Business Objectives**
-
-</div>
-
-| **Date** | 2026-07-01 |
-|---|---|
-| **Project Name** | Automated Employee Onboarding & Offboarding System |
-| **Author** | AYUB HUSSAIN SHAIK |
-| **Organization** | SKILLWALLET INTERNSHIP |
-| **Document** | Business Objectives & Goals |
-
----
-<div align="center">
-
-| <img src="https://skillwallet.in/wp-content/uploads/2024/03/skillwallet-logo.png" width="160" alt="SmartBridge"> | <img src="https://skillwallet.in/wp-content/uploads/2024/03/skillwallet-logo.png" width="160" alt="SkillWallet"> |
-|:--|--:|
-| **🔵 SMARTBRIDGE** | **SKILL WALLET** |
-| | *A SmartBridge Product* |
 
 ---
 
